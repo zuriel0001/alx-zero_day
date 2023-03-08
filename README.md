@@ -1,1 +1,1 @@
-My first readme on my git projecet
+My first readme on my git project
